@@ -1,0 +1,33 @@
+#two,#four{
+    float: left;
+}
+span{
+    font-weight: 700;
+    color: rgb(15, 139, 189);
+}
+#nam{
+    color: skyblue;
+    margin-top: 5%;
+}
+.vl {
+    border-left: solid rgb(167, 165, 165); 
+            height: 200px; 
+            position:absolute; 
+            left: 50%; 
+            size: 4;
+  }
+  img{
+      width: 180x;
+      height: 180px;
+      margin-top: 5%;
+      margin-left: 26%;
+  }
+  .container{
+   font-family: Arial, Helvetica, sans-serif;
+  }
+  p{
+      text-align: justify;
+  }
+  #head{
+      background-color:skyblue;
+  }
